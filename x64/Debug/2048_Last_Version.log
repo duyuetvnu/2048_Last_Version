@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\VisualStudio\SDL Game\2048_Last_Version\Source.cpp(133,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\VisualStudio\SDL Game\2048_Last_Version\Source.cpp(471,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\VisualStudio\SDL Game\2048_Last_Version\Source.cpp(824): warning C4715: 'LButton::handleEvent': not all control paths return a value
+  2048_Last_Version.vcxproj -> E:\VisualStudio\SDL Game\2048_Last_Version\x64\Debug\2048_Last_Version.exe
