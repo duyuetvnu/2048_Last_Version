@@ -4,7 +4,7 @@ Nguyễn Hoàng Duy
 Giới thiệu chung:
     Đây là trò chơi 2048 cổ điển được viết bằng ngôn ngữ C++, sử dụng thư viện đồ hoạ SDL2
 Hướng dẫn cài đặt:
-    Vào thư mục x64/Debug/2048_Last_Version để chơi game
+    Vào thư mục x64/Debug/2048_Last_Version.exe để chơi game
     
 Luật chơi:
 
